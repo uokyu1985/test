@@ -1,8 +1,8 @@
 #!/bin/bash
 
-USER=kyue
-PASS=uokyu1985
-HOST=192.168.0.17
+USER=user
+PASS=pass
+HOST=192.168.0.1
 
 expect -c "
 set timeout -1
